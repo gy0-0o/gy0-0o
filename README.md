@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gy0-0o&show_icons=true&theme=cobalt)
 
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
