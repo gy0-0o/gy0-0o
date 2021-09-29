@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there :wave:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gy0-0o&show_icons=true&theme=cobalt)
 
