@@ -26,4 +26,4 @@ Hello, I'm PanGyo :wave:
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic-square&logo=Google Colab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-blueviolet?style=plastic-square&logo=Visual Studio&logoColor=white"/></a>
 
-                ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangyosim&show_icons=true&theme=react)
+              ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangyosim&show_icons=true&theme=react)
