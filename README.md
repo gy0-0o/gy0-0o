@@ -22,7 +22,7 @@ Hi there :wave:
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-00599C?style=plastic-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=plastic-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jupyter-orange?style=plastic-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic-square&logo=Google Colab&logoColor=white"/></a>
