@@ -20,10 +20,10 @@ Hello, I'm PanGyo :wave:
 <h3 align="center"> 🛠️ Tech Stack 🛠️ </h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=plastic-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=plastic-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyter-orange?style=plastic-square&logo=Jupyter&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic-square&logo=Google Colab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-00599C?style=plastic-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=plastic-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Springboot-#6DB33F?style=plastic-square&logo=Springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/eclipse-#2C2255?style=plastic-square&logo=Eclipse&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ-#000000?style=plastic-square&logo=IntelliJ&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-blueviolet?style=plastic-square&logo=Visual Studio&logoColor=white"/></a>
-
-            ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangyosim&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangyosim&show_icons=true&theme=react)
