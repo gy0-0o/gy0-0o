@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-Hello, I'm PanGyo :wave:
+안녕하세요. 심판교라고합니다. :wave:
 </div>
 
 
