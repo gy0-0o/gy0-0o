@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 안녕하세요. 개발자 심판교라고합니다. :wave: <br></br>
-<a href="https://www.spgdb.site/"> 포트폴리오 바로가기 </a>
+<a href="https://www.spgdb.site/" target="_blank"> 포트폴리오 바로가기 </a>
 </div>
 
 
