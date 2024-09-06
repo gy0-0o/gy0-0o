@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:67C6E3,100:378CE7&height=200&section=header&text=Hello.%20BackendDeveloper%20SimPangyo👋&animation=fadeIn&fontSize=30&fontColor=ffffff&fontAlignY=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:67C6E3,100:378CE7&height=200&section=header&text=Hello.%20FullStackDeveloper%20SimPangyo👋&animation=fadeIn&fontSize=30&fontColor=ffffff&fontAlignY=50"/>
 </div>
 <p align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpangyosim%2Fpangyosim&count_bg=%233BC4CE&title_bg=%232847DA&icon=angellist.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/>
