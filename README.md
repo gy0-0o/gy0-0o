@@ -7,7 +7,7 @@
 
 <div align="center">
     <!-- Frontend -->
-    <h2>📚 Frontend Stack 📚</h2>
+    <h2>🎨 Frontend Stack 🎨</h2>
     <div>
         <img src="https://img.shields.io/badge/React-292929?style=for-the-badge&logo=react&logoColor=68dbfb">
         <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/Axios-4170e4?style=for-the-badge&logo=axios&logoColor=white">
     </div>
     <!-- Backend stack -->
-    <h2>📚 Backend Stack 📚</h2>
+    <h2>📈 Backend Stack 📈</h2>
     <div>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <!--         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
