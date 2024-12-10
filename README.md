@@ -1,3 +1,4 @@
+<!--
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:67C6E3,100:378CE7&height=200&section=header&text=Hello.%20FullStackDeveloper%20SimPangyo👋&animation=fadeIn&fontSize=30&fontColor=ffffff&fontAlignY=50"/>
 </div>
@@ -6,7 +7,6 @@
 </p>
 
 <div align="center">
-    <!-- Frontend -->
     <h2>🎨 Frontend Stack 🎨</h2>
     <div>
         <img src="https://img.shields.io/badge/React-292929?style=for-the-badge&logo=react&logoColor=68dbfb">
@@ -19,11 +19,9 @@
         <img src="https://img.shields.io/badge/Ajax-2c83b9?style=for-the-badge&logo=ajax&logoColor=white">
         <img src="https://img.shields.io/badge/Axios-4170e4?style=for-the-badge&logo=axios&logoColor=white">
     </div>
-    <!-- Backend stack -->
     <h2>📈 Backend Stack 📈</h2>
     <div>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<!--         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"><br>
@@ -34,7 +32,6 @@
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/oracle-ff1512?style=for-the-badge&logo=oracle&logoColor=white"/> 
     </div>
-    <!-- Cloud -->
     <h2>☁️ Ect Stack ☁️</h2>
     <div>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -44,7 +41,6 @@
         <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
         <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=azure&logoColor=white"/>
     </div>
-    <!-- Cowork tools -->
     <h2>🧑🏻‍💻 Cowork Tools 🧑🏻‍💻</h2>
     <div>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -56,9 +52,11 @@
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
     </div>
     <h2></h2>
-</div>
-
+</div> 
+-->
+<!-- 
 <h2 align="center">✨ Git Stats ✨</h2>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pangyosim&show_icons=true&theme=dark"/>
 </p>
+-->
